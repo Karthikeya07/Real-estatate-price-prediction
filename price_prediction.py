@@ -33,7 +33,7 @@ warnings.simplefilter('ignore')
 
 
 #To read data uploaded int0 collab
-data=pd.read_csv("dataset_pric.csv")
+data=pd.read_csv("bangalore_real_estate_dataset.csv")
 Rdata=data.copy()
 
 
